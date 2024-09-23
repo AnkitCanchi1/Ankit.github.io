@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All About Tennis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #007A33; /* Tennis green */
+            color: #ffffff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        nav {
+            background: #005f24;
+            padding: 10px 0;
+        }
+        nav a {
+            color: #ffffff;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #007A33;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>All About Tennis</h1>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#history">History</a>
+    <a href="#techniques">Techniques</a>
+    <a href="#resources">Resources</a>
+</nav>
+
+<div class="container">
+    <h2 id="about">The Exciting World of Tennis</h2>
+    <img src="your-image1-url.jpg" alt="Tennis Match">
+    <p>Tennis is a dynamic sport that combines skill, strategy, and athleticism. Whether you play for fun or competitively, it’s a great way to stay active and engaged.</p>
+
+    <h2 id="history">A Brief History of Tennis</h2>
+    <img src="your-image2-url.jpg" alt="Historic Tennis Match">
+    <p>The modern game of tennis originated in France in the late 19th century. It has since evolved into a global sport with a rich history and tradition.</p>
+
+    <h2 id="techniques">Essential Tennis Techniques</h2>
+    <p>Mastering techniques like the serve, forehand, and backhand is crucial for success. Regular practice and coaching can help improve your skills.</p>
+
+    <h2 id="resources">Learn More</h2>
+    <p>To dive deeper into tennis techniques and tips, check out this resource:</p>
+    <p><a href="https://www.tennis.com">Tennis.com</a></p>
+</div>
+
+<footer>
+    <p>&copy; 2024 All About Tennis. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
