@@ -21,7 +21,7 @@
 
 <div class="container">
     <h2 id="about">The Exciting World of Tennis</h2>
-    <img src="your-image1-url.jpg" alt="Tennis Match">
+    <img src="https://images.theconversation.com/files/152205/original/image-20170110-23473-gj7409.jpg?ixlib=rb-4.1.0&rect=0%2C132%2C3043%2C1967&q=45&auto=format&w=926&fit=clip" alt="Tennis Match"/>
     <p>Tennis is a dynamic sport that combines skill, strategy, and athleticism. Whether you play for fun or competitively, it’s a great way to stay active and engaged.</p>
 
     <h2 id="history">A Brief History of Tennis</h2>
